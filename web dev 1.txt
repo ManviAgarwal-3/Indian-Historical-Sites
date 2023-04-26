@@ -1,0 +1,122 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@ManviAgarwal-3 
+/
+Historical-Places-In-India-Website
+Public
+Fork your own copy of @ManviAgarwal-3/Historical-Places-In-India-Website
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Beta Try the new code view
+Historical-Places-In-India-Website/exp1a.html
+@ManviAgarwal-3
+@ManviAgarwal-3 Add files via upload
+Latest commit c51a857 on Apr 16,2023
+ History
+ 1 contributor
+95 lines (67 sloc)  8.45 KB
+ 
+
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>
+         Historical Places in India..!
+   </title>
+   <style>
+   body {background-color:rgb(234, 242, 243);}
+   h1   {color: blue; font-family:Georgia}
+   h2   {color: green; font-family:Georgia}
+   h3   {color: red; font-family:Georgia}
+   p  {font-size:100%; color: blue; font-family:Georgia}
+   a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+    }
+    a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+   </style>
+ </head>
+ <body>
+
+<h1 id="Top"></h1>
+<a href="#Bottom" style="float: right">Go down</a>
+
+  <h1><b><u>UTTAR PRADESH</b></u></h1>
+  <h2>AGRA</h2>
+ <h3>TAJ MAHAL</h3>
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg/1280px-Taj_Mahal%2C_Agra%2C_India_edit3.jpg" alt="Taj Mahal" style="width:420px;height:281px;">
+<img src="https://i.pinimg.com/originals/ba/94/f8/ba94f87b04d60914ecab3da794dc421f.jpg" alt="Taj Mahal" style="float:right; width:420px;height:281px;">
+
+<p><b>The Taj Mahal , (meaning Crown of the Palace)</b> is an ivory-white marble mausoleum on the south bank of the Yamuna river in the 
+    Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, <b>Shah Jahan (reigned 1628–1658)</b>, to house the tomb of
+     his favourite wife,<b> Mumtaz Mahal</b>. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and
+      a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.</p>
+
+
+<p>The Taj Mahal was designated as a <b> UNESCO World Heritage Site </b> in 1983 for being "the jewel of Muslim art in India and one of 
+    the universally admired masterpieces of the world's heritage". Described by Nobel laureate Rabindranath Tagore as "the tear-drop on 
+    the cheek of time", it is regarded by many as the best example of Mughal architecture and a symbol of India's rich history. </p>
+
+<p><a style="font-size:100%;" href="https://en.wikipedia.org/wiki/Taj_Mahal" target="_blank">Click here for more information on Taj Mahal</a></p>
+
+<h3>AGRA FORT</h3>
+
+<p>
+Agra Fort is a historical fort in the city of Agra in India. It was the main residence of the emperors of the Mughal Dynasty till 1638, when Mughal capital was shifted from Agra to Red Fort in Delhi. It is also a UNESCO World Heritage site and is about 2.5 km northwest of its more famous sister monument, the Taj Mahal. The fort can be more accurately described as a walled city.
+</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/450px-Agra_03-2016_10_Agra_Fort.jpg" alt="Agra Fort" style="width:420px;height:281px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Diwan-E-Aam_Inside.JPG/330px-Diwan-E-Aam_Inside.JPG" alt="Diwan-i-aam" style="width:420px;height:281px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hauz_i_Jahangiri.jpg/330px-Hauz_i_Jahangiri.jpg" alt="Jahangir's Hauz" style="width:420px;height:281px;">
+
+<p><a style="font-size:100%;" href="https://en.wikipedia.org/wiki/Agra_Fort" target="_blank">Click here for more information on Agra Fort</a></p>
+
+<h3>FATEHPUR SIKRI</h3>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/413px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg" alt="Buland Darwaza" style="width:420px;height:281px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fatehpur_Sikri_Fort_166.jpg/330px-Fatehpur_Sikri_Fort_166.jpg" alt="Jodha Bai Mahal" style="width:420px;height:281px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Panch_Mahal-Fatehpur-Fatehpur_Sikri_India0014.JPG/375px-Panch_Mahal-Fatehpur-Fatehpur_Sikri_India0014.JPG" alt="Panch Mahal" style="width:420px;height:281px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Jama_Masjid-Sikri-Fatehpur_Sikri-India0008.JPG/375px-Jama_Masjid-Sikri-Fatehpur_Sikri-India0008.JPG" alt="Jama Masjid" style="width:420px;height:281px;">
+
+
+<p>Fatehpur Sikri , is a city in the Agra District of Uttar Pradesh, India. The city was founded in 1569 by the Mughal Emperor Akbar,
+     and served as the capital of the Mughal Empire from 1571 to 1585, when it was abandoned. He named the city Fatehabad, with Fateh, 
+     a word of Arabic origin in Persian, meaning "victorious." It was later called Fatehpur Sikri.Fatehpur Sikri is one of the best preserved examples of Mughal architecture in India. </p>
+
+
+
+<p><a style="font-size:100%;" href="https://en.wikipedia.org/wiki/Fatehpur_Sikri" target="_blank">Click here for more information on Fatehpur Sikri</a></p>
+
+
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
